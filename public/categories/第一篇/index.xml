@@ -1,0 +1,14 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>第一篇 - 分类 - chenrunji-blog</title>
+        <link>https://example.com/categories/%E7%AC%AC%E4%B8%80%E7%AF%87/</link>
+        <description>第一篇 - 分类 - chenrunji-blog</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sun, 25 Jul 2021 21:09:16 &#43;0800</lastBuildDate><atom:link href="https://example.com/categories/%E7%AC%AC%E4%B8%80%E7%AF%87/" rel="self" type="application/rss+xml" /><item>
+    <title>Hello World</title>
+    <link>https://example.com/demo/</link>
+    <pubDate>Sun, 25 Jul 2021 21:09:16 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://example.com/demo/</guid>
+    <description><![CDATA[Hello World 换个好看一点的博客主题重新写起，芜湖，起飞~]]></description>
+</item></channel>
+</rss>
